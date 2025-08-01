@@ -1,0 +1,6 @@
+@CMSRestAPI_HostAddress = http://localhost:5067
+
+GET {{CMSRestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
